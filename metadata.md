@@ -19,3 +19,5 @@ Myself
 Sample in Daily life
 - เมทาดาต้าเชิงโครงสร้าง: รูปแบบไฟล์ (MP3, FLAC), อัตราบิต, ความยาวเพลง
 เมทาดาต้าเชิงพรรณนา: ศิลปิน, อัลบั้ม, ปีที่ออกอัลบั้ม, แนวเพลง
+
+https://github.com/qwwwwioza/qwwwwioza.github.io/blob/e6d31d490d5ee15ae0c92875c8477114808e24b3/metadata.md
