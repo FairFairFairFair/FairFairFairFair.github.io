@@ -44,7 +44,7 @@
 ---
 
 ## ลิ้งเพื่อน
-[Metadata.md](https://github.com/qwwwwioza/qwwwwioza.github.io/blob/e6d31d490d5ee15ae0c92875c8477114808e24b3/metadata.md)  
+[Metadata.md](https://qwwwwioza.github.io/metadata)  
 
 ---
 
