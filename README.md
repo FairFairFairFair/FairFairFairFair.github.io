@@ -12,7 +12,7 @@
 
 ---
 
-![Alt text](IMG_1473_Original.jpeg)
+![Alt text](my picture/IMG_1473_Original.jpeg)
 ## introduce myself
 Education : kasetsart university
 
