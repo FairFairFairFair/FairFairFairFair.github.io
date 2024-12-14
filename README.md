@@ -2,7 +2,7 @@
 ---
 ⭐️⭐️ My name is Warakorn Chanthawong | Nickname Tiew⭐️⭐️
 
-⚡️⚡️ Student ID 6530250212⚡️⚡️
+contact : 081-356-2617
 
 💥💥 sec 870 💥💥
 
@@ -17,7 +17,5 @@
 Education : kasetsart university
 
 Hobby : Music 🎵, Gaming 🎮
-
-contact : 081-356-2617
 
 ---
