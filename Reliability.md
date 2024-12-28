@@ -19,6 +19,6 @@ Data reliability refers to how often your data and tables reflect reality for a 
 - ตัวอย่าง: แอปพลิเคชันการจองตั๋วเครื่องบินที่สามารถทำการจองตั๋วได้สำเร็จทุกครั้งที่ใช้งาน
 - ความน่าเชื่อถือ: ถ้าผู้ใช้สามารถทำการจองตั๋วได้อย่างราบรื่นและไม่มีปัญหาทุกครั้งที่ใช้แอปพลิเคชัน แสดงว่าแอปพลิเคชันนั้น reliable เพราะให้ผลลัพธ์ที่ถูกต้องและไม่มีข้อผิดพลาด
 
-![Alt text](mypicture/IMG_1473_Original.jpeg)
+![Alt text](mypicture/Reliability.jpeg)
 ---
 
