@@ -41,4 +41,4 @@ sensitive information or functions are authenticated.
 ## 👥 **สมาชิกทีม**
 - **🎓 6530250212 Warakorn Chanthawong**
 - **🎓 6530250441 Pasin Harnkham**  
-  🔗 **GitHub Profile:** [Thossaphol2204.github.io/security-requirement](https://thossaphol2204.github.io/security-requirement)
+  🔗 **GitHub Profile:** [https://mater3214.github.io/security-requirement](https://mater3214.github.io/security-requirement)
